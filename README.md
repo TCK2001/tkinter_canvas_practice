@@ -1,1 +1,3 @@
-# tkinter_canvas_practice
+## tkinter_canvas_practice
+-----
++ Learn tkinter Canvas
