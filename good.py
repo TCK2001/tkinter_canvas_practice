@@ -1,6 +1,5 @@
 from tkinter import*
 import random
-from turtle import bgcolor, fillcolor, filling
 
 quotes=["Everything counts.","Make it count","Be yourself"]
 meaning=["경험하는 모든 순간들이 축적됩니다.","가치 있는 순간을 만들어라.","진정한 자신의 모습으로 살아가세요."]
